@@ -8,7 +8,7 @@
 #
 # White Blinking ........... Running
 # Red ...................... Failed to wipe files
-# Purple ................... Done
+# Green .................... Done
 #
 # 
 LED R G B 100

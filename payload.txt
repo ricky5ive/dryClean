@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Title:         SelfDestruct for Bash Bunny
+# Title:         dryClean for Bash Bunny
 # Author:        ricky5ive
 # Version:       1.0
 #
